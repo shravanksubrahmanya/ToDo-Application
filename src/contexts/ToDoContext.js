@@ -18,6 +18,4 @@ export const useTodo = () => {
   return useContext(ToDoContext);
 };
 
-export const TodoProvider = ({ children, value }) => (
-  <ToDoContext.Provider value={value}>{children}</ToDoContext.Provider>
-);
+export const TodoProvider = ToDoContext.Provider;
