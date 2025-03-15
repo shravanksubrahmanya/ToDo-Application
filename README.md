@@ -24,7 +24,7 @@ A simple yet powerful ToDo application built using **React**, **Vite**, and **Ta
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/shravanksubrahmanya/ToDo-Application.git
    cd todo-app
    ```
 
